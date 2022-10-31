@@ -27,6 +27,9 @@
 
 /*General Content*/
 
+.aula {
+    height: 500px;
+}
 .references-btn{
     padding: 15px;
     border: 1px solid brown;
